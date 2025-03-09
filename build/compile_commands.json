@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Documents/ASCII-IMG-CONVERTER/build",
+  "command": "g++   -g -std=gnu++17 -o CMakeFiles\\ASCII_IMG_CONVERTER.dir\\ASCII_IMG_CONVERTER.cpp.obj -c E:\\Documents\\ASCII-IMG-CONVERTER\\ASCII_IMG_CONVERTER.cpp",
+  "file": "E:/Documents/ASCII-IMG-CONVERTER/ASCII_IMG_CONVERTER.cpp",
+  "output": "CMakeFiles/ASCII_IMG_CONVERTER.dir/ASCII_IMG_CONVERTER.cpp.obj"
+}
+]
